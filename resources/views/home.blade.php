@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Selamat Datang {{ Auth::user()->name }} di Dampit Agency Sistem !
                 </div>
             </div>
         </div>
